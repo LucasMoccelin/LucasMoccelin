@@ -2,7 +2,7 @@
 ## Lucas Moccelin! 🧑‍💻
 ##### (pt-br)
 
-#### Olá, me chamo lucas e sou estudante de desenvolvimento full stack. Usando tecnologias como, HTML, css, Javascript, Node, React, Mongo e Next JS. 👨‍💻
+#### Olá, me chamo lucas e sou estudante de desenvolvimento full stack. Usando tecnologias como, HTML, Css, Javascript, Node, React, Mongo e Next JS. 👨‍💻
 
 ### Sobre mim ⬇️
 

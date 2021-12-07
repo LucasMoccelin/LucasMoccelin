@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**LucasMoccelin/LucasMoccelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lucas Moccelin! 🧑‍💻
+##### (pt-br)
 
-Here are some ideas to get you started:
+#### Olá, me chamo lucas e sou estudante de desenvolvimento full stack. Usando tecnologias como, HTML, css, Javascript, Node, React, Mongo e Next JS. 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim ⬇️
+
+#### Desde pequeno sempre tive interesse na área de tecnologia então tive muito contato com computadores.🖥️ Buscava meu lazer na programação desde cedo, era fascinado em saber como coisas como, programas, modificações em jogos, scripts e sites como o facebook, olx e netflix eram feitos. 🔧
+
+![DevLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMoccelin&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoccelin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
